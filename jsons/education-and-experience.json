@@ -8,29 +8,49 @@
         },
         {
             "year": "2017 - 2019",
-            "institution": "Govt. Ananda Mohon College, Mymensingh",
+            "institution": "Natunhat Public College, Jashore.",
             "degree": "HSC",
             "description": "During my time at college, I experienced a challenging and stimulating academic environment that fostered the expansion of my knowledge and the development of critical thinking skills."
         },
         {
             "year": "2009 - 2017",
-            "institution": "Mymensingh Zilla School",
+            "institution": "BGD ML High School, Jashore.",
             "degree": "SSC",
             "description": "At my school life, I pursued studies in the science group, benefiting from a comprehensive education that equipped me with the necessary skills and knowledge for my academic and professional endeavors ahead."
         }
     ],
     "experience": [
         {
-            "year": "2021 - Present",
-            "position": "Front-end Developer",
-            "company": "Go Bangladesh",
-            "description": "Having joined 'Go Bangladesh' as a Front-End developer, I have been actively involved in collaborating with designers, back-end developers, and clients since 2021 to create seamless and intuitive user experiences for their innovative smart solutions in the mass transportation system of Bangladesh."
+            "year": "2022-2023",
+            "position": "Front-end Developer + Backend Developer",
+            "company": "MediCareHub",
+            "description": "Started Web Project 'MediCareHub' as a Front-End + Backend developer, I have been actively involved in collaborating with designs, developing, and clients since 2021 to create seamless and intuitive user experiences for our innovative smart solutions in the medical as well as health care of people of Bangladesh."
         },
         {
-            "year": "2018 - Present",
-            "position": "Founder & Content Creator",
-            "company": "Wikitricks",
-            "description": "Throughout the past five years, I have skillfully curated and managed a captivating YouTube channel, meticulously creating and sharing engaging videos that have captivated audiences, leading to substantial growth and enhanced viewer interaction."
+            "year": "2023 - Present",
+            "position": "Founder and CEO",
+            "company": "Dream Express Bangladesh",
+            "description": "In this year, i have found this company which is a Ecommerce company, selling Technological products through online. Also it offers home delivery and Assure customer to have a best quality products. A fully trusted online marketplace."
+        },
+        {
+            "year": "2021-2023 - Present",
+            "position": "Organizing Secretary",
+            "company": "IEEE JnU SB",
+            "description": "I have been working with IEEE since 2021. I worked actively . On this Year I have been selected as Organizing Secratary and also have a chance to work with so many professionals and experienced persons and professors."
+        },
+        {
+            "year": "2023 - Present",
+            "position": "Internee",
+            "company": "Next Gen Innovation LTD",
+            "description": "I have been working with IEEE since 2021. I worked actively . On this Year I have been selected as Organizing Secratary and also have a chance to work with so many professionals and experienced persons and professors."
+        },
+
+        {
+            "year": "2023 - Present",
+            "position": "Event Management Team Volunteer",
+            "company": "IEEE CS BDC Secretariat",
+            "description": "I have Coordinate many event. Also i have worked with Event management team in BD. And Participate so many programs."
         }
+        
     ]
 }
