@@ -1,0 +1,36 @@
+{
+    "education": [
+        {
+            "year": "2020 - Present",
+            "institution": "Jagannath University, Dhaka",
+            "degree": "B.Sc",
+            "description": "In my third year of pursuing a B.Sc degree in Computer Science and Engineering at my university life, I have developed a deep understanding of various computer science topics, including programming, algorithms, data structures, database management, and web development."
+        },
+        {
+            "year": "2017 - 2019",
+            "institution": "Govt. Ananda Mohon College, Mymensingh",
+            "degree": "HSC",
+            "description": "During my time at college, I experienced a challenging and stimulating academic environment that fostered the expansion of my knowledge and the development of critical thinking skills."
+        },
+        {
+            "year": "2009 - 2017",
+            "institution": "Mymensingh Zilla School",
+            "degree": "SSC",
+            "description": "At my school life, I pursued studies in the science group, benefiting from a comprehensive education that equipped me with the necessary skills and knowledge for my academic and professional endeavors ahead."
+        }
+    ],
+    "experience": [
+        {
+            "year": "2021 - Present",
+            "position": "Front-end Developer",
+            "company": "Go Bangladesh",
+            "description": "Having joined 'Go Bangladesh' as a Front-End developer, I have been actively involved in collaborating with designers, back-end developers, and clients since 2021 to create seamless and intuitive user experiences for their innovative smart solutions in the mass transportation system of Bangladesh."
+        },
+        {
+            "year": "2018 - Present",
+            "position": "Founder & Content Creator",
+            "company": "Wikitricks",
+            "description": "Throughout the past five years, I have skillfully curated and managed a captivating YouTube channel, meticulously creating and sharing engaging videos that have captivated audiences, leading to substantial growth and enhanced viewer interaction."
+        }
+    ]
+}

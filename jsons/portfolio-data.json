@@ -1,0 +1,146 @@
+[
+    {
+        "name": "Student Intro Website Template",
+        "description": "Template for making the intro website of a batch of a university department.",
+        "image": "portfolio23.jpg",
+        "link": "https://github.com/nishatrhythm/CSE11"
+    },
+    {
+        "name": "e-Desk",
+        "description": "A complaint, request, or suggestion can be submitted against any organization via the e-Desk digital platform.",
+        "image": "portfolio1.jpg",
+        "link": "https://www.behance.net/gallery/152540269/e-Desk"
+    },
+    {
+        "name": "Campus Commune",
+        "description": "Students can find hostel seat or mess by using this digital platform which is very effective for female students.",
+        "image": "portfolio14.jpg",
+        "link": "https://www.behance.net/gallery/170866457/Campus-Commune"
+    },
+    {
+        "name": "Personal Website of the MCC Mayor",
+        "description": "This is the prototype version of personal website for the mayor of the MCC.",
+        "image": "portfolio18.jpg",
+        "link": "https://www.behance.net/gallery/173847977/Personal-Website-of-Mayor"
+    },
+    {
+        "name": "Blogging Website with Portfolio",
+        "description": "Simple blogging website with portfolio where author can share his personal thoughts.",
+        "image": "portfolio15.jpg",
+        "link": "https://www.behance.net/gallery/170864781/Blogging-Website-with-Portfolio"
+    },
+    {
+        "name": "Highway Next",
+        "description": "Highway Next is a smart public transportation management system that makes use of a tracking system, digital wallet, and Quick Response (QR) code.",
+        "image": "portfolio2.jpg",
+        "link": "https://www.behance.net/gallery/152542393/Highway-Next-%28Public-Website%29"
+    },
+    {
+        "name": "Blogging Website with Back-End",
+        "description": "Complete blogging website with MySQL back-end where user can add categorized post.",
+        "image": "portfolio16.jpg",
+        "link": "https://github.com/nishatrhythm/Complete-Blogging-Website-with-Back-End"
+    },
+    {
+        "name": "Coinbank Wallet",
+        "description": "You can track your income and expenses with Coinbank Wallet, which also gives you control over your finances.",
+        "image": "portfolio3.jpg",
+        "link": "https://www.behance.net/gallery/150995971/Coinbank-Wallet"
+    },
+    {
+        "name": "Book Like Portfolio Website",
+        "description": "Portfolio website like a book using HTML, CSS and JavaScript.",
+        "image": "portfolio21.jpg",
+        "link": "https://github.com/nishatrhythm/Book-Like-Portfolio-Website"
+    },
+    {
+        "name": "Weather App Using Public API",
+        "description": "This is a web-based weather app using public OpenWeatherMap API.",
+        "image": "portfolio24.jpg",
+        "link": "https://github.com/nishatrhythm/Weather-App-Using-API"
+    },
+    {
+        "name": "Analog Clock Using HTML CSS JS",
+        "description": "This is a simple analog clock using HTML, CSS and JavaScript.",
+        "image": "portfolio22.jpg",
+        "link": "https://github.com/nishatrhythm/Analog-Clock-Using-HTML-CSS-JS"
+    },
+    {
+        "name": "Simple Quiz Challenge Website",
+        "description": "Basic JavaScript, HTML and CSS have been used to develop this website.",
+        "image": "portfolio17.jpg",
+        "link": "https://github.com/nishatrhythm/Quiz-Website"
+    },
+    {
+        "name": "Animated Login and Registration Page",
+        "description": "HTML, CSS, and JavaScript were used to build this animated login and registration page.",
+        "image": "portfolio4.jpg",
+        "link": "https://github.com/nishatrhythm/Animated-Login-and-Registration-Page"
+    },
+    {
+        "name": "Login and Registration Page",
+        "description": "HTML, CSS, and JavaScript were used to develop the login and registration page.",
+        "image": "portfolio5.jpg",
+        "link": "https://github.com/nishatrhythm/Login-and-Registration-Page"
+    },
+    {
+        "name": "Material UI Login Page",
+        "description": "The most recent version of Google's design system, Material UI 3, was used to build this login page.",
+        "image": "portfolio6.jpg",
+        "link": "https://github.com/nishatrhythm/Demo-Login-Page"
+    },
+    {
+        "name": "Parallax Scrolling Website",
+        "description": "This is a web design technique in which the website background moves at a slower pace than the foreground.",
+        "image": "portfolio7.jpg",
+        "link": "https://github.com/nishatrhythm/Parallax-Scrolling-Website"
+    },
+    {
+        "name": "Google Like Login Page",
+        "description": "This is a mirror webpage of Google Account sign in page.",
+        "image": "portfolio8.jpg",
+        "link": "https://github.com/nishatrhythm/Google-Like-Login-Form"
+    },
+    {
+        "name": "Parallax Scrolling Animation",
+        "description": "The animation gives a 3D effect as visitors scroll down the site, adding a sense of depth and creating a more immersive browsing experience.",
+        "image": "portfolio9.jpg",
+        "link": "https://github.com/nishatrhythm/Parallax-Scroll-Animation"
+    },
+    {
+        "name": "My Portfolio Website Template",
+        "description": "Here is the source code of my portfolio website, which you may freely use to create your own.",
+        "image": "portfolio10.jpg",
+        "link": "https://github.com/nishatrhythm/My-Portfolio"
+    },
+    {
+        "name": "Animated Loading Login Form",
+        "description": "This login form was created using HTML and CSS.",
+        "image": "portfolio11.jpg",
+        "link": "https://github.com/nishatrhythm/Animated-Loading-Login-Form"
+    },
+    {
+        "name": "Responsive Portfolio with Dark Mode",
+        "description": "The source code for this portfolio website is free to use and available on GitHub.",
+        "image": "portfolio12.jpg",
+        "link": "https://github.com/nishatrhythm/Responsive-Portfolio-with-Dark-Light-Mode"
+    },
+    {
+        "name": "Animated and Colourful Portfolio",
+        "description": "The source code for this portfolio website is free to use and available on GitHub.",
+        "image": "portfolio13.jpg",
+        "link": "https://github.com/nishatrhythm/Responsive-Animated-and-Colourful-Portfolio"
+    },
+    {
+        "name": "Travel Website Landing Page",
+        "description": "This website landing page is basically designed for travel agency and source code is available on GitHub.",
+        "image": "portfolio19.jpg",
+        "link": "https://github.com/nishatrhythm/Travel-Website-Landing-Page"
+    },
+    {
+        "name": "Car Website Landing Page",
+        "description": "This is a basic car website landing page developed using HTML and CSS only.",
+        "image": "portfolio20.jpg",
+        "link": "https://github.com/nishatrhythm/Car-Website-Landing-Page"
+    }
+]

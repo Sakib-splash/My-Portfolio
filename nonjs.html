@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Enable JavaScript</title>
+  <script>
+    // JavaScript code to redirect if JavaScript is enabled
+    if (navigator && navigator.userAgent && !navigator.userAgent.includes("js_disabled")) {
+      window.location.href = "/"; // Redirect to your main website
+    }
+  </script>
+
+  <link rel="icon" href="images/enablejs.png" type="image/x-icon" sizes="30x30">
+
+  <!-- custom css -->
+  <link rel="stylesheet" href="stylenonjs.css">
+
+</head>
+
+<body>
+  <section class="about" id="about">
+    <h2 class="heading">Enable <span>JavaScript!</span></h2>
+
+    <div class="about-content">
+      <p>This website requires JavaScript. Please enable JavaScript in your browser settings to access the full
+        functionality of this website.</p>
+
+      <div class="btn-box btns">
+        <a href="/" class="btn">I have enabled it. Reload now.</a>
+      </div>
+    </div>
+  </section>
+</body>
+
+</html>

@@ -1,0 +1,19 @@
+{
+    "services": [
+        {
+            "icon": "bx bx-code-block",
+            "title": "Front-end Development",
+            "description": "If you need assistance with Android or web development, I can help you. I have expertise in various front-end languages such as HTML, CSS, JavaScript, XML, and Android Layout. Whether you require assistance with Android app development or web development, feel free to reach out to me for support."
+        },
+        {
+            "icon": "bx bxs-paint",
+            "title": "Graphic Design",
+            "description": "I have experience working with Adobe Photoshop, Adobe Illustrator, and Adobe XD for design purposes. I have also created various website designs and Android app prototypes. You can view examples of my work on Behance portfolio. If you need assistance with design solutions or want to collaborate, don't hesitate to contact."
+        },
+        {
+            "icon": "bx bx-movie-play",
+            "title": "Video Editing",
+            "description": "Since 2017, I have been proficient in using Adobe Premiere Pro for video editing purposes. Over the years, I have created professional and instructional videos. If you are in need of creative and skillful video editing for your project, feel free to reach out to me, and we can discuss how I can contribute to your video editing needs."
+        }
+    ]
+}

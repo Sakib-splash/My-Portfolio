@@ -1,0 +1,38 @@
+{
+    "codingSkills": [
+        {
+            "name": "HTML",
+            "percent": "95%"
+        },
+        {
+            "name": "CSS",
+            "percent": "75%"
+        },
+        {
+            "name": "JavaScript",
+            "percent": "40%"
+        },
+        {
+            "name": "Android Layout",
+            "percent": "80%"
+        }
+    ],
+    "professionalSkills": [
+        {
+            "name": "Web Design",
+            "percent": "80%"
+        },
+        {
+            "name": "Web Development",
+            "percent": "65%"
+        },
+        {
+            "name": "Graphic Design",
+            "percent": "85%"
+        },
+        {
+            "name": "Video Editing",
+            "percent": "75%"
+        }
+    ]
+}

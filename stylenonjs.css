@@ -1,0 +1,217 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;800;900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    border: none;
+    outline: none;
+    scroll-behavior: smooth;
+    font-family: 'Poppins', sans-serif;
+}
+
+:root {
+    --bg-color: #1f242d;
+    --second-bg-color: #323946;
+    --text-color: #fff;
+    --main-color: #0ef;
+    --shadow-color: rgba(0, 0, 0, .7);
+}
+
+html {
+    font-size: 80%;
+    overflow-x: hidden;
+}
+
+body {
+    background: var(--bg-color);
+    color: var(--text-color);
+}
+
+section {
+    min-height: 100vh;
+    padding: 10rem 9% 2rem;
+}
+
+.btn {
+    display: inline-block;
+    padding: 1rem 2.8rem;
+    background: var(--main-color);
+    border-radius: 4rem;
+    box-shadow: 0 0 1rem var(--main-color);
+    font-size: 1.6rem;
+    color: var(--second-bg-color);
+    letter-spacing: .1rem;
+    font-weight: 600;
+    transition: .5s ease;
+    opacity: 0;
+    animation: slideTop 1s ease forwards;
+    animation-delay: 1s;
+}
+
+.btn:hover {
+    box-shadow: none;
+}
+
+/* KEYFRAMES ANIMATION */
+@keyframes slideTop {
+    0% {
+        transform: translateY(100px);
+        opacity: 0;
+    }
+
+    100% {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+@keyframes slideBottom {
+    0% {
+        transform: translateY(-100px);
+        opacity: 0;
+    }
+
+    100% {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+@keyframes floatImage {
+    0% {
+        transform: translateY(0);
+    }
+
+    50% {
+        transform: translateY(-2.4rem);
+    }
+
+    100% {
+        transform: translateY(0);
+    }
+}
+
+@keyframes zoomIn {
+    0% {
+        transform: scale(0);
+        opacity: 0;
+    }
+
+    100% {
+        transform: scale(1);
+        opacity: 1;
+    }
+}
+
+.about {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: var(--bg-color);
+    padding-bottom: 15rem;
+}
+
+.heading {
+    position: relative;
+    font-size: 5rem;
+    margin-bottom: 0.5rem;
+    text-align: center;
+    opacity: 0;
+    animation: slideBottom 1s ease forwards, floatImage 4s ease-in-out infinite;
+    animation-delay: 0.5s, 1.5s;
+}
+
+span {
+    color: var(--main-color);
+}
+
+.about-content {
+    text-align: center;
+}
+
+.about-content p {
+    position: relative;
+    font-size: 1.6rem;
+    margin: 1rem 0 5rem;
+    padding-right: 10rem;
+    padding-left: 10rem;
+    opacity: 0;
+    animation: zoomIn 1s ease forwards;
+    animation-delay: 0.5s;
+}
+
+::-moz-selection {
+    /* Code for Firefox */
+    color: var(--second-bg-color);
+    background: var(--main-color);
+}
+
+::selection {
+    color: var(--second-bg-color);
+    background: var(--main-color);
+}
+
+
+/* CUSTOM SCROLLBAR */
+
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px var(--second-bg-color); 
+    border-radius: 10px;
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: var(--main-color); 
+    border-radius: 10px;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: var(--text-color); 
+  }
+
+
+/* BREAKPOINTS */
+@media print {
+
+    html,
+    body {
+        display: none; /* disables printing the website */
+    }
+}
+
+@media (max-width: 991px) {
+    html {
+        font-size: 100%;
+    }
+
+    .btn {
+        font-size: 2rem;
+    }
+
+    .about-content p {
+        padding-right: 0.5rem;
+        padding-left: 0.5rem;
+    }
+}
+
+@media (max-width: 450px) {
+    html {
+        font-size: 80%;
+    }
+}
+
+@media (max-width: 365px) {
+    html {
+        font-size: 50%;
+    }
+}

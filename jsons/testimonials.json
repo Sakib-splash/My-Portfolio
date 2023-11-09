@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Person 1",
+        "image": "images/testimonial1.jpg",
+        "quote": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum minima ab dolorum quos, sint molestiae corporis officia obcaecati? Iure reprehenderit neque fuga. Delectus, odit optio!"
+    },
+    {
+        "name": "Person 2",
+        "image": "images/testimonial2.jpg",
+        "quote": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum minima ab dolorum quos, sint molestiae corporis officia obcaecati? Iure reprehenderit neque fuga. Delectus, odit optio!"
+    },
+    {
+        "name": "Person 3",
+        "image": "images/testimonial3.jpg",
+        "quote": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum minima ab dolorum quos, sint molestiae corporis officia obcaecati? Iure reprehenderit neque fuga. Delectus, odit optio!"
+    }
+]
