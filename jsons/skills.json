@@ -15,6 +15,10 @@
         {
             "name": "Android Layout",
             "percent": "80%"
+        },
+        {
+            "name": "My SQL",
+            "percent": "75%"
         }
     ],
     "professionalSkills": [
@@ -27,12 +31,16 @@
             "percent": "65%"
         },
         {
-            "name": "Graphic Design",
-            "percent": "85%"
+            "name": "Android Development",
+            "percent": "60%"
+        },
+        {
+            "name": "Event Coordinate",
+            "percent": "75%"
         },
         {
             "name": "Video Editing",
-            "percent": "75%"
+            "percent": "40%"
         }
     ]
 }
