@@ -22,10 +22,7 @@
         }
     ],
     "professionalSkills": [
-        {
-            "name": "Web Design",
-            "percent": "80%"
-        },
+        
         {
             "name": "Web Development",
             "percent": "65%"
@@ -36,7 +33,11 @@
         },
         {
             "name": "Event Coordinate",
-            "percent": "75%"
+            "percent": "95%"
+        },
+        {
+            "name": "Games Development 2D",
+            "percent": "80%"
         },
         {
             "name": "Video Editing",
