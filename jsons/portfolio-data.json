@@ -1,14 +1,14 @@
 [
     {
-        "name": "Student Intro Website Template",
+        "name": "Ever Green Website",
         "description": "Template for making the intro website of a batch of a university department.",
-        "image": "portfolio23.jpg",
-        "link": "https://github.com/nishatrhythm/CSE11"
+        "image": "EverGreen.png",
+        "link": "#"
     },
     {
         "name": "e-Desk",
         "description": "A complaint, request, or suggestion can be submitted against any organization via the e-Desk digital platform.",
-        "image": "portfolio1.jpg",
+        "image": "EverGreen.png",
         "link": "https://www.behance.net/gallery/152540269/e-Desk"
     },
     {
@@ -110,7 +110,7 @@
     {
         "name": "My Portfolio Website Template",
         "description": "Here is the source code of my portfolio website, which you may freely use to create your own.",
-        "image": "portfolio10.jpg",
+        "image": "Portfolio.png",
         "link": "https://github.com/nishatrhythm/My-Portfolio"
     },
     {
