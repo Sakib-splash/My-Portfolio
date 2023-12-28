@@ -6,9 +6,14 @@
             "description": "If you need assistance with Android or web development, I can help you. I have expertise in various front-end languages such as HTML, CSS, JavaScript, XML, and Android Layout. Whether you require assistance with Android app development or web development, feel free to reach out to me for support."
         },
         {
+            "icon": "bx bx-code-block",
+            "title": "Android Development",
+            "description": "I have completed my Android project fullfil with android studio. Also learn and works with java , api, xml and Firebase also ."
+        },
+        {
             "icon": "bx bxs-paint",
-            "title": "Graphic Design",
-            "description": "I have experience working with Adobe Photoshop, Adobe Illustrator, and Adobe XD for design purposes. I have also created various website designs and Android app prototypes. You can view examples of my work on Behance portfolio. If you need assistance with design solutions or want to collaborate, don't hesitate to contact."
+            "title": "AR Designer and Creator",
+            "description": "I have experience working with Adobe Photoshop, Adobe Illustrator, and MetaSpark for design and creating different types of facebook and instagram filter. I have also created various website designs and Android app prototypes. You can view examples of my work on Behance portfolio. If you need assistance with design solutions or want to collaborate, don't hesitate to contact."
         },
         {
             "icon": "bx bx-movie-play",
